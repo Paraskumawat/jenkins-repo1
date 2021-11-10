@@ -1,7 +1,7 @@
 <?php
 
 
-print "Hello this is my php first page"
+print "Hello this is my php first page";
 
 
 
